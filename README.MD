@@ -44,7 +44,7 @@ Welcome to the Thread App Clone! This application is a clone of a thread-based s
 1. **Clone the repository:**
 
    ```bash
-   : git clone https://github.com/your-username/thread-app-clone.git
+   : git clone https://github.com/Sompalkar/Thread-backend.git
 
    : npm install
 
